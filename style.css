@@ -1,0 +1,29 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 60%;
+    padding-left: 5%;
+}
+.half img{
+    width: 90%;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: url("images/link-button.jpg");
+    background-size: cover;
+    
+}
