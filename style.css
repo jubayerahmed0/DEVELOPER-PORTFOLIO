@@ -10,7 +10,7 @@ h1{
 .orange{
     color: blue;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -20,6 +20,9 @@ section{
 }
 .half img{
     width: 90%;
+}
+.half p{
+    padding-right: 10px;
 }
 .link-button{
     color: white;
