@@ -43,6 +43,10 @@ h1{
 .dream-big{
     background-image: url(images/cover2.png);
 }
+
+.exp{
+    margin-left: 61px;
+}
 .Experience-item{
     box-shadow: 10px 10px 50px gray ;
     border-radius: 15px;
